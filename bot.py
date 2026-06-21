@@ -1,7 +1,7 @@
 import requests
 
-TOKEN = "ضع_التوكن_هنا"
-CHAT_ID = "ضع_الشات_آيدي_هنا"
+TOKEN = "8883189014:AAE3atZNKuubfS0ssoKFMl4loZAzQma14E0"
+CHAT_ID = "967764129"
 
 message = """
 🟢 GOLD SIGNAL
